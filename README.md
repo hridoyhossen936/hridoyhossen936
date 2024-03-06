@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://ibb.co/Qj1kD01)](https://youtube.com/@mlarmy2.0)
 
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 <h3 align="center">A passionate data scientist from Bangladesh</h3>
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hridoyhossen369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoyhossen369" height="30" width="40" /></a>
+<a href="https://fb.com/hridoyhossen936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoyhossen936" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mlarmy2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mlarmy2.0" height="30" width="40" /></a>
 </p>
 
